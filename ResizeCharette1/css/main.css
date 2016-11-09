@@ -1,0 +1,5728 @@
+
+.container{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background-color: darkgreen;
+
+}
+
+.box{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box2{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box3{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box4{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box5{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box6{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box7{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box8{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box9{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box10{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box11{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box12{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.box13{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box5{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box14{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box15{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box16{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box17{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box18{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box19{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+.box20{
+	position:absolute;
+	background-color: white;
+	border-radius: 50%;
+}
+
+
+@media (max-width: 1400px) { 
+	.box{	
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:30%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1375px) { 
+	.box{	
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:60%;
+	background-color: white;
+	}
+			.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:15%;
+	background-color: white;
+	}
+}
+@media (max-width: 1350px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:80%;
+	background-color: white;
+	}
+			.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:10%;
+	background-color: white;
+	}
+
+		.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1325px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:80%;
+	background-color: white;
+	}
+				.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:40%;
+	left:15%;
+	background-color: white;
+	}
+
+		.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:10%;
+	background-color: white;
+	}
+
+			.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:65%;
+	left:20%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1300px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:0%;
+	background-color: white;
+	}
+					.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:15%;
+	background-color: white;
+	}
+
+		.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:40%;
+	left:5%;
+	background-color: white;
+	}
+
+			.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:70%;
+	background-color: white;
+	}
+
+				.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:90%;
+	left:10%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1275px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:0%;
+	background-color: white;
+	}
+						.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:15%;
+	background-color: white;
+	}
+
+		.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:10%;
+	background-color: white;
+	}
+
+			.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:12%;
+	left:37%;
+	background-color: white;
+	}
+
+				.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:16%;
+	left:50%;
+	background-color: white;
+	}
+
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:35%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1250px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:50%;
+	background-color: white;
+	}
+						.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1225px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:35%;
+	background-color: white;
+	}
+
+.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+						.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1200px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:70%;
+	left:15%;
+	background-color: white;
+	}
+
+							.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+						.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+							.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+
+}
+
+@media (max-width: 1175px) { 
+	.box{	
+		position:absolute;
+	width:30%;
+	height:30%;
+	top:15%;
+	left:10%;
+	background-color: white;
+	}
+
+
+							.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1150px) { 
+	.box{
+		position:absolute;
+	width:30%;
+	height:30%;
+	top:50%;
+	left:35%;
+	background-color: white;	
+	}
+
+						.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1125px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:90%;
+	background-color: white;
+	}
+
+							.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1100px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:90%;
+	left:20%;
+	background-color: white;
+	}
+
+								.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1075px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:10%;
+	background-color: white;
+	}
+
+									.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1050px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:5%;
+	background-color: white;
+	}
+										.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1250px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:35%;
+	background-color: white;
+	}
+
+											.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1025px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:20%;
+	background-color: white;
+	}
+
+												.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 1000px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:40%;
+	left:60%;
+	background-color: white;
+	}
+													.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 975px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:70%;
+	left:40%;
+	background-color: white;
+	}
+														.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+@media (max-width: 950px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:0%;
+	background-color: white;
+	}
+															.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 925px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:80%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 900px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:35%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 875px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:25%;
+	left:25%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 850px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:5%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 825px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:70%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 800px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:40%;
+	left:50%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 775px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:70%;
+	left:15%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 750px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:10%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 725px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:60%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 700px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:35%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 675px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:15%;
+	left:15%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 650px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:50%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+@media (max-width: 625px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:0%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 600px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:70%;
+	left:80%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 575px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:30%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+}
+
+@media (max-width: 550px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:35%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+
+}
+
+@media (max-width: 525px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:25%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+
+}
+
+@media (max-width: 500px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:15%;
+	left:15%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+}
+
+@media (max-width: 475px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:5%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+
+}
+
+@media (max-width: 450px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:65%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+
+}
+
+@media (max-width: 425px) { 
+	.box{
+			position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:10%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:20%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:2%;
+	left:20%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:55%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:40%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:50%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:90%;
+	left:0%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:50%;
+	left:80%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:20%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:77%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:14%;
+	left:12%;
+	background-color: white;
+	}
+
+}
+
+@media (max-width: 400px) { 
+	.box{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:10%;
+	background-color: white;
+	}
+																.box2{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:8%;
+	left:80%;
+	background-color: white;
+	}
+					.box3{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:5%;
+	left:5%;
+	background-color: white;
+	}
+					.box4{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:0%;
+	background-color: white;
+	}
+					.box5{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:21%;
+	left:48%;
+	background-color: white;
+	}
+					.box6{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:40%;
+	background-color: white;
+	}
+					.box7{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:90%;
+	background-color: white;
+	}
+
+		.box8{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:90%;
+	left:0%;
+	background-color: white;
+	}
+
+		.box9{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:90%;
+	left:90%;
+	background-color: white;
+	}
+
+		.box10{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:20%;
+	background-color: white;
+	}
+			.box11{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:80%;
+	left:10%;
+	background-color: white;
+	}
+
+				.box12{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:11%;
+	left:47%;
+	background-color: white;
+	}
+
+	.box13{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:33%;
+	left:22%;
+	background-color: white;
+	}
+
+		.box14{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:65%;
+	left:44%;
+	background-color: white;
+	}
+
+		.box15{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:0%;
+	left:55%;
+	background-color: white;
+	}
+
+			.box16{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:60%;
+	left:60%;
+	background-color: white;
+	}
+				.box17{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:10%;
+	left:10%;
+	background-color: white;
+	}
+					.box18{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:30%;
+	left:30%;
+	background-color: white;
+	}
+						.box19{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:20%;
+	left:40%;
+	background-color: white;
+	}
+							.box20{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:6%;
+	left:4%;
+	background-color: white;
+	}
+}
